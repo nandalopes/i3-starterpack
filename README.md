@@ -85,7 +85,7 @@ If i3-wm, dunst, i3lock, i3status, and suckless-tools are not installed automati
 ## Explanations of Additional Packages
 - Compton is a compositor to provide some desktop effects like shadow, transparency, fade, and transiton. 
 - Hsetroot is a wallpaper handler. i3 has no wallpaper handler by default.
-- URxvt is a lightweight terminal emulator, part of *i3-sensible-terminal*.
+- tilix is a lightweight terminal emulator with quake capability.
 - Xsel is a program to access X clipboard. We need it to make copy-paste in URxvt available. Hit Alt+C to copy, and Alt+V to paste. 
 - Rofi is a program launcher, similar with dmenu but with more options.
 - Noto Sans and M+ are my favourite fonts used in my configuration.
